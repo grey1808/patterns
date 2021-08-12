@@ -7,3 +7,4 @@ use controller\FabricController\Lada;
 include "controller/FabricPatternController.php";
 new Ford('Focus 1', 'Белый');
 new Lada('Calina', 'Красный');
+
